@@ -3,7 +3,9 @@ body{
     background: black;
     margin:0px;
     font-family: "Pacifico", cursive
+    margin-bottom: 100px;
 }
+
 
 hearder{
 border-bottom: solid 2px rgb(133,133,172);
@@ -58,7 +60,7 @@ height: 250px;
 }
 
 .categoria h2{
-
+color: #950ea1;
 
 
 }
